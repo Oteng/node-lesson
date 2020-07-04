@@ -1,0 +1,23 @@
+{
+  "name": "lesson1",
+  "version": "1.0.0",
+  "description": "A sample node module project",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oteng/node-lesson.git"
+  },
+  "keywords": [
+    "lesson",
+    "web"
+  ],
+  "author": "Oteng Kwaku",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Oteng/node-lesson/issues"
+  },
+  "homepage": "https://github.com/Oteng/node-lesson#readme"
+}
