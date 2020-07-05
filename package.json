@@ -5,7 +5,8 @@
   "main": "src/index.js",
   "scripts": {
     "test": "",
-    "build": "babel src -d lib"
+    "build": "babel src -d lib",
+    "start": "node lib/index.js"
   },
   "repository": {
     "type": "git",
@@ -25,5 +26,8 @@
     "@babel/cli": "^7.10.4",
     "@babel/core": "^7.10.4",
     "@babel/preset-env": "^7.10.4"
+  },
+  "dependencies": {
+    "axios": "^0.19.2"
   }
 }
